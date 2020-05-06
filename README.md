@@ -3,4 +3,5 @@
 <h2 style="font-size:20px;" dir="rtl">
   کونت دونت تایمر (CountDownTimer)  در اندروید کاتلین
 </h2><p dir="rtl">نسخه اول</p>
+<p dir="rtl">نسخه اول</p>
 <img src="scr001.png" alt="Test CountDownTimer in android kotlin" title="Test CountDownTimer in android kotlin">
